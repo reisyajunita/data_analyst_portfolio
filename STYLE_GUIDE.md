@@ -1,5 +1,3 @@
-[![Style Guide](https://img.shields.io/badge/Style%20Guide-Reisya%20Docs-beige?style=for-the-badge&logo=bookstack&logoColor=white)](STYLE_GUIDE.md)
-
 # 🌸 **Reisya’s Data Project Documentation Style Guide**
 > *“Analisis data bukan hanya tentang angka, tapi tentang menceritakan sesuatu yang bermakna.”*  
 > — Reisya Junita Putri  
