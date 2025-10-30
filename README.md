@@ -57,7 +57,7 @@ Berikut beberapa visualisasi interaktif dari proyek saya:
 ## 💻 Struktur Repositori
 📁 data_analyst_portfolio  
 │  
-├── 📁 cellphones_smartphone_analysis  
+├── 📁 cellphones_analysis  
 │   └── README.md  
 ├── 📁 uber_analysis  
 │   └── README.md  
