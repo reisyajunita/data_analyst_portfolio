@@ -44,7 +44,7 @@ Proyek ini dikerjakan menggunakan kombinasi **SQL, Python, dan Tableau**:
 > 🔗 [Lihat Dashboard Interaktif di Tableau Public](https://public.tableau.com/views/uber_dashboard_17578564618230/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <div align="center">
-  <img src="assets/uber_dashboard.png" width="600"/>
+  <img src="../assets/uber_dashboard.png" width="600"/>
   <p><i>Dashboard: Pola Aktivitas Pengguna dan Waktu Perjalanan</i></p>
 </div>
 
