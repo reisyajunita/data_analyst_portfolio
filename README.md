@@ -1,3 +1,6 @@
+[![Style Guide](https://img.shields.io/badge/Style%20Guide-Reisya%20Docs-f5e6d3?style=for-the-badge&logo=bookstack&logoColor=8b4513)](STYLE_GUIDE.md)
+
+
 # 📊 **Data Analyst Portfolio**
 ### 🎯 *Mengubah Data Menjadi Insight yang Bermakna*  
 
