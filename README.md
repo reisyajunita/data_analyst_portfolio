@@ -41,12 +41,12 @@ Setiap proyek dirancang untuk menunjukkan kemampuan dalam:
 Berikut beberapa visualisasi interaktif dari proyek saya:
 
 <div align="center">
-  <img src="assets/smartphone_dashboard_preview.png" width="600"/>
+  <img src="assets/cellphones_dashboard.png" width="600"/>
   <p><i>Dashboard: Analisis Preferensi Smartphone Berdasarkan Profesi</i></p>
 </div>
 
 <div align="center">
-  <img src="assets/uber_dashboard_preview.png" width="600"/>
+  <img src="assets/uber_dashboard.png" width="600"/>
   <p><i>Dashboard: Pola Perjalanan dan Aktivitas Pengemudi Uber</i></p>
 </div>
 
