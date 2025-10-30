@@ -41,7 +41,7 @@ Proyek ini dikerjakan menggunakan kombinasi **SQL, Python, dan Tableau**:
 ---
 
 ## 📊 **Dashboard Visualisasi**
-> 🔗 [Lihat Dashboard Interaktif di Tableau Public](https://public.tableau.com/app/profile/reisya.junita/viz/UberRideAnalytics/Dashboard)
+> 🔗 [Lihat Dashboard Interaktif di Tableau Public](https://public.tableau.com/views/uber_dashboard_17578564618230/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <div align="center">
   <img src="assets/uber_dashboard.png" width="600"/>
@@ -61,7 +61,7 @@ Proyek ini dikerjakan menggunakan kombinasi **SQL, Python, dan Tableau**:
 ---
 
 ## 🔗 **Repo Asli & Dokumentasi Lengkap**
-📁 [Lihat Proyek Lengkap di GitHub →](https://github.com/reisyajunita/uber_analysis_project)  
+📁 [Lihat Proyek Lengkap di GitHub →](https://github.com/reisyajunita/uber_analysis)  
 Berisi seluruh file SQL, notebook Python, insight lengkap, dan refleksi hasil analisis.
 
 ---
