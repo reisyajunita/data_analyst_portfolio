@@ -2,7 +2,7 @@
 > *“Analisis data bukan hanya tentang angka, tapi tentang menceritakan sesuatu yang bermakna.”*  
 > — Reisya Junita Putri  
 
-![Style Guide Banner](style_guide_banner.png)
+![Style Guide Banner](assets/style_guide_banner.png)
 
 ---
 
