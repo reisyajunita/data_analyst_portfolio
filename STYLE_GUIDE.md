@@ -89,6 +89,33 @@ Tambahkan kalimat reflektif di akhir setiap proyek, misalnya:
 
 ---
 
+## 📂 **Struktur Folder Project**
+📁 nama_project_baru/
+│  
+├── README.md → dokumentasi utama (naratif + insight + rekomendasi bisnis)  
+│  
+├── 📁 data/  
+│ ├── raw/ → dataset mentah  
+│ └── cleaned/ → hasil cleaning (opsional, bisa CSV/SQL dump)  
+│  
+├── 📁 sql/  
+│ ├── 01_import_data.sql  
+│ ├── 02_EDA.sql  
+│ ├── 03_data_cleaning.sql  
+│ └── 04_analysis.sql  
+│
+├── 📁 notebooks/ (kalau kamu pakai Python)  
+│ ├── eda_notebook.ipynb  
+│ └── analysis_insight.ipynb  
+│  
+├── 📁 dashboard/  
+│ ├── tableau_dashboard.png  
+│ └── tableau_link.txt (link ke Tableau Public)  
+│  
+└── .gitignore (opsional)  
+
+---
+
 ## 💻 **Ciri Khas Reisya’s Style**
 | Elemen | Ciri Khas |
 |---------|------------|
